@@ -4,7 +4,9 @@ end
 
 def find_max_value(array)
   x = array[0]
-  while array.length.times do 
+  while array.length.times { |index|
+    
+  } 
     
 end
 
